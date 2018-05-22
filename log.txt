@@ -1,0 +1,7 @@
+ :  : ./nop_bai.sh thu.txt
+ binhminh :  : ./nop_bai.sh thu.txt
+ binhminh :  : ./nop_bai.sh thu.txt
+ binhminh : Thứ hai, 25 Tháng mười hai năm 2017 23:43:09 +07 : ./nop_bai.sh thu.txt
+ binhminh : Thứ hai, 25 Tháng mười hai năm 2017 23:44:53 +07 : ./nop_bai.sh thu.txt
+ binhminh : Thứ hai, 25 Tháng mười hai năm 2017 23:49:00 +07 : ./nop_bai.sh 
+ binhminh : Thứ hai, 25 Tháng mười hai năm 2017 23:49:30 +07 : ./nop_bai.sh 

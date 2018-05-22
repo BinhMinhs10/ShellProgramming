@@ -1,0 +1,2 @@
+noidung=`ls`
+echo $noidung
